@@ -1,4 +1,4 @@
-## Hi there 👋 BackEnd Developer Yujin Kim
+## BackEnd Developer Yujin Kim 😎
 
 ##### 🌴 Tech Stack 🌴
 
